@@ -22,6 +22,7 @@ I am an Information Technology student with an interest in backend development, 
 
 * Java
 * PHP
+* Python (Basic)
 * JavaScript (Basic)
 * C++ (Basic)
 * C# (Basic)
@@ -36,6 +37,7 @@ I am an Information Technology student with an interest in backend development, 
 ### Tools
 
 * Visual Studio Code
+* Google Colab
 * NetBeans
 * XAMPP
 * Git
@@ -70,6 +72,7 @@ A Java application that manages student records and computes grades.
 * Advanced PHP Development
 * Backend Development Concepts
 * Node.js
+* Python
 * Database Optimization
 * Software Design Principles
 
